@@ -1,0 +1,12 @@
+Problems in Source Code:
+I have not able to impelement horizontal scrolling properly.
+Due to this I am facing problems as follows:-
+Cannot show "Press Spacebar to generate a file". If i show it then on scrolling it appears multiple times.
+
+All other things are covered
+
+Updation Done:
+
+Changes in Server's Server.cpp file
+Added #define UNICODE
+

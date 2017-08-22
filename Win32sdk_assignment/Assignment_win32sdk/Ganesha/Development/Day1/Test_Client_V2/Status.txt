@@ -1,0 +1,3 @@
+Taken code from sirs win32 sdk notes pg 44 and modifies it according to assignment.
+
+To add scrolling in next project.

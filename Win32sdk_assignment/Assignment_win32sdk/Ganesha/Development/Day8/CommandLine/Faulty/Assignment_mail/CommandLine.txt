@@ -1,0 +1,10 @@
+Client Side
+
+cl.exe /c /EHsc Client.cpp
+
+link.exe Client.obj User32.lib GDi32.lib /MACHINE:X86 /SUBSYSTEM:WINDOWS
+
+Server Side
+cl.exe /c /EHsc Server.cpp
+
+link.exe Server.obj /DLL /DEF:Source.def /SUBSYSTEM:WINDOWS

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\ganesha\desktop\win32sdk_assignment\assignment_win32sdk\ganesha\development\day4\testv12\server\test\source.cpp(45): warning C4101: 'j': unreferenced local variable
+c:\users\ganesha\desktop\win32sdk_assignment\assignment_win32sdk\ganesha\development\day4\testv12\server\test\source.cpp(45): warning C4101: 'i': unreferenced local variable
+     Creating library C:\Users\Ganesha\Desktop\Win32sdk_assignment\Assignment_win32sdk\Ganesha\Development\Day4\TestV12\Server\Debug\Server.lib and object C:\Users\Ganesha\Desktop\Win32sdk_assignment\Assignment_win32sdk\Ganesha\Development\Day4\TestV12\Server\Debug\Server.exp
+  Test.vcxproj -> C:\Users\Ganesha\Desktop\Win32sdk_assignment\Assignment_win32sdk\Ganesha\Development\Day4\TestV12\Server\Debug\Server.dll
+  Test.vcxproj -> C:\Users\Ganesha\Desktop\Win32sdk_assignment\Assignment_win32sdk\Ganesha\Development\Day4\TestV12\Server\Debug\Server.pdb (Full PDB)

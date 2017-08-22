@@ -1,0 +1,9 @@
+LIBRARY Server.dll
+EXPORTS
+		AllocateMatrix
+		LoadIdentityMatrix
+		TranslationMatrix
+		ScalingMatrix
+		RotationMatrix_x
+		RotationMatrix_y
+		RotationMatrix_z

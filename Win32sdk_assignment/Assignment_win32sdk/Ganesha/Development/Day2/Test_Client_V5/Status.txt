@@ -1,0 +1,3 @@
+After pressing spacebar key i get message "Spacebar key is pressed".
+
+Now going for dll

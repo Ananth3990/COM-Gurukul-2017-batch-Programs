@@ -1,0 +1,10 @@
+After pressing spacebar key i get message "Spacebar key is pressed".
+
+Wrote Server dll having two functions 
+GetStringsFromClient
+HandleFileIO
+
+Called GetStringsFromClient in Client.
+Have put MessageBox in GetStringsFromClient.
+
+Now to print String in GetStringsFromClient.

@@ -1,0 +1,9 @@
+Printed all uotput in MessageBox.
+Need to work on HnadleFileIO.
+
+Working n FileIO
+Took custom code form msdn and printed in file.
+Put \r\n in it.
+It worked.
+
+I was able to properly print here.

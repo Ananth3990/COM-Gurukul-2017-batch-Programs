@@ -1,0 +1,2 @@
+On pressing spacebar twice, the window is cleared with gray color.
+Set text in blank grey screen.

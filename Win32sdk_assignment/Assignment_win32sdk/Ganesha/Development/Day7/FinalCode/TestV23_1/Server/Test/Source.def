@@ -1,0 +1,4 @@
+LIBRARY Server.dll
+EXPORTS
+		GetStringsFromClient @110
+		HandleFileIO @111

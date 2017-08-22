@@ -1,0 +1,6 @@
+LIBRARY Server.dll
+EXPORTS
+		SumOfTwoIntegers @108
+		SubtractionOfTwoIntegers @109
+		GetStringsFromClient @110
+		HandleFileIO @111
